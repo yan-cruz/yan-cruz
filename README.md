@@ -11,7 +11,7 @@ Currently, I'm a Computer Engineering student at the State University of Minas G
 Feel free to connect with me through the following platforms 🌐
  
 <a href = "mailto:yancruzmg@yahoo.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yan-cruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/yancruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br />
 
 
