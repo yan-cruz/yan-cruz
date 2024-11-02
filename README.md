@@ -3,7 +3,7 @@
 Passionate about innovation and technology, I firmly believe that determination and hard work are the keys to achieving any goal. 💡
 
 
-Currently, I'm a Computer Engineering student at the State University of Minas Gerais (UEMG), in my 3rd period. Together, I believe we will shape a better future. 🚀
+Currently, I'm a Computer Engineering student at the State University of Minas Gerais (UEMG), in my 4rd period. Together, I believe we will shape a better future. 🚀
 
 
   ##
